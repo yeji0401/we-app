@@ -22,7 +22,7 @@ public class WeYeji0401Servlet extends HttpServlet {
 		response.getWriter()
 			.append("Served at: ")
 			.append(request.getContextPath())
-			.append("yeji0401이 /hello에 응답했습니다.");
+			.append("yeji0401이 /hello에 응답했습니다. ㅋㅋㅋ");
 	}
 
 }
